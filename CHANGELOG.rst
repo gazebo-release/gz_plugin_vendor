@@ -2,6 +2,16 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 3.0.0 (`#3 <https://github.com/gazebo-release/gz_plugin_vendor/issues/3>`_)
+* Apply prerelease suffix (`#2 <https://github.com/gazebo-release/gz_plugin_vendor/issues/2>`_)
+  * Apply prerelease suffix
+  * Drop BUILD_DOCS
+  ---------
+* Upgrade to Ionic
+* Contributors: Addisu Z. Taddese
+
 0.1.0 (2024-04-23)
 ------------------
 * Use an alias target for root library
