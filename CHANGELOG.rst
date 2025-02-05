@@ -2,8 +2,8 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2025-02-05)
+------------------
 * Bump version to 2.0.4 (`#4 <https://github.com/gazebo-release/gz_plugin_vendor/issues/4>`_)
 * Contributors: Addisu Z. Taddese
 
