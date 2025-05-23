@@ -2,8 +2,8 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.2 (2025-05-23)
+------------------
 * Bump version to 3.1.0 (`#6 <https://github.com/gazebo-release/gz_plugin_vendor/issues/6>`_)
 * Contributors: Ian Chen, Jose Luis Rivero
 
