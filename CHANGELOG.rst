@@ -2,8 +2,8 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2025-10-01)
+------------------
 * Merge pull request `#10 <https://github.com/gazebo-release/gz_plugin_vendor/issues/10>`_ from gazebo-release/releasepy/rolling/4.0.0
   Bump version to 4.0.0
 * Bump version to 4.0.0
