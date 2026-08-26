@@ -2,6 +2,11 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Upgrade to Rotary prerelease (`#11 <https://github.com/gazebo-release/gz_plugin_vendor/issues/11>`_)
+* Contributors: Addisu Z. Taddese
+
 0.4.0 (2026-05-14)
 ------------------
 
